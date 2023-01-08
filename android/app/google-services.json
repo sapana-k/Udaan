@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "287790114040",
+    "project_id": "udaan-101",
+    "storage_bucket": "udaan-101.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287790114040:android:c8829afc66a42ab9d2870d",
+        "android_client_info": {
+          "package_name": "com.example.udaan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287790114040-gfp06u81ve2ft0akfenpv2scsoq0e55h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh3pvoO_WXA8J1Vf88_zlicIWrXO3kUl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287790114040-gfp06u81ve2ft0akfenpv2scsoq0e55h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "287790114040-5cflutb6euedfdmd8jl0ugu6n0rs95r8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.udaan"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

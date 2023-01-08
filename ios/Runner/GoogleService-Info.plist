@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>287790114040-5cflutb6euedfdmd8jl0ugu6n0rs95r8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.287790114040-5cflutb6euedfdmd8jl0ugu6n0rs95r8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDslIi4Ktg0ql00Z3rq1lfxq14FuFCRNrg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>287790114040</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.udaan</string>
+	<key>PROJECT_ID</key>
+	<string>udaan-101</string>
+	<key>STORAGE_BUCKET</key>
+	<string>udaan-101.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:287790114040:ios:510bc061a1c3506ad2870d</string>
+</dict>
+</plist>
